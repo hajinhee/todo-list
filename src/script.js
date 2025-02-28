@@ -577,7 +577,7 @@ function WritePage() {
   return (
     <>
       <form
-        className="flex flex-col gap-3 sm:gap-5 flex-1 p-5 sm:p-10"
+        className="flex flex-col gap-4 sm:gap-5 flex-1 p-5 sm:p-10"
         onSubmit={onSubmit}
       >
         <TextField
