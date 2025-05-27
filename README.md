@@ -1,6 +1,8 @@
-# 할일 리스트2
+# 📝 To-Do List
 
-A Pen created on CodePen.
+[![View Live](https://img.shields.io/badge/View%20Live-Demo-blue?style=for-the-badge&logo=github)](https://hajinhee.github.io/todo-list/)
 
-Original URL: [https://codepen.io/hajinhee/pen/VYwmMQp](https://codepen.io/hajinhee/pen/VYwmMQp).
+간단한 할 일 목록 관리 웹 애플리케이션입니다.
 
+## 🔗 배포 링크
+👉 [https://hajinhee.github.io/todo-list/](https://hajinhee.github.io/todo-list/)
